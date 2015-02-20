@@ -1,0 +1,16 @@
+{
+  "name": "google-maps-utility-library-v3-read-only",
+  "version": "1.0.0",
+  "homepage": "https://github.com/kdela/google-maps-utility-library-v3-read-only",
+  "authors": [
+    "Kacper Dela <kacper.dela+github@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
